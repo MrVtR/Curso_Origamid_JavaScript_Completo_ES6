@@ -1,0 +1,12 @@
+.div-imagens {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*# sourceMappingURL=sass.css.map */
